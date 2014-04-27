@@ -17,7 +17,7 @@ int countt;
 struct node {
 	int x, y;
 	node *next;
-} *head, *last;
+}*head, *last;
 
 bool value(int, int);
 
